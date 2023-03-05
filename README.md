@@ -27,6 +27,7 @@ Refer to images in this folder to easily understand the steps.
 #3.0 Cost:
 - request captcha				: 15 credits
 - successfuly claim code drop		: 300 credits
+- Free for all first time users to try out (300 credits)
 
 #4.0 Notes:
 - Each first time username using this bot will receive free 200 credits.
