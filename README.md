@@ -1,2 +1,41 @@
-# StakeReloadXS
-Stake Reload Xtremely Simlified
+#1.0  StakeReloadXS
+https://discord.gg/aBK6227mGQ
+VERSION: 1.1.0
+Last Update: February 18 2023
+
+
+#1.1 HOW TO INSTALL:
+Follow this instruction to install the extension in your browser.
+Refer to images in this folder to easily understand the steps.
+
+#1.2 Prerequisites:
+- Chrome browser installed for PC or Kiwi browser installed for Android
+
+#1.3 Steps:
+1. Open your browser and go to chrome://extensions
+2. Activate Developer mode switch located on top right of the page
+3. Click Load Unpacked located on top left of the page
+4. Select StakeReloadXS folder that you have unzipped (for Kiwi browser, select the zipped file instead)
+5. If success, StakeReloadXS extension should be in your extensions list
+6. Open new tab and go to stake.kim/faucet - you should see page as shown in screenshot
+
+
+#2.0 Features:
+- claim your Stake.com reload automatically. Won't cost you anything if no active reloads.
+- claim code drops from telegram channels automatically, will support official stake channels and more soon.
+
+#3.0 Cost:
+- request captcha				: 15 credits
+- successfuly claim code drop		: 300 credits
+
+#4.0 Notes:
+- Each first time username using this bot will receive free 200 credits.
+- Credits can be negative up to -300 credits in case of successfuly claiming code drop.
+- We use 5 concurrent requests for code drops for faster claims, so it will cost 5x request captcha cost on request.
+- If claim code drop is not successful, additional cost will not be added. Only pay for requests captcha service.
+
+#5.0 Adding Credits:
+- send tip to stake username SmartPlayer with your stake account you want to use to get credits.
+- $1 = 1000 credits, get 10% extra credits for transaction over $100
+- credits will be added automatically and updated in next claim (or refresh page). In case credits not added, please contact me on telegram https://t.me/sp_stake
+- Via Discord by creating a ticket https://discord.gg/aBK6227mGQ
