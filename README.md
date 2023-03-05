@@ -5,6 +5,7 @@ Last Update: February 18, 2023
 
 
 #1.1 HOW TO INSTALL:
+https://youtu.be/Mduz2s5Aw1Q
 Follow this instruction to install the extension in your browser.
 Refer to images in this folder to easily understand the steps.
 
