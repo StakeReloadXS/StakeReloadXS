@@ -1,8 +1,9 @@
 #1.0  StakeReloadXS
 https://discord.gg/aBK6227mGQ
-VERSION: 1.1.0
+VERSION: 1.1.2
 Last Update: February 18, 2023
-
+User Promo Code: supitsj
+Free 300 credits to try our tool.
 
 #1.1 HOW TO INSTALL:
 https://youtu.be/Mduz2s5Aw1Q
