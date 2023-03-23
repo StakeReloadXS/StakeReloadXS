@@ -1,9 +1,12 @@
 #1.0  StakeReloadXS
 https://discord.gg/aBK6227mGQ
-VERSION: 1.1.3
-Last Update: March 12, 2023
+VERSION: 1.1.4
+Last Update: March 23, 2023
 User Promo Code: supitsj
 Free 300 credits to try our tool.
+
+Download the latest release v1.1.4:
+https://github.com/jlucus/StakeReloadXS/releases/tag/1.1.4
 
 #1.1 HOW TO INSTALL:
 https://youtu.be/Mduz2s5Aw1Q
