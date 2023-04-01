@@ -2,17 +2,29 @@
 
 https://discord.gg/aBK6227mGQ
 
-VERSION: 1.1.4
+VERSION: 1.1.5
 
-Last Update: March 23, 2023
+Last Update: March 31, 2023
+-Added acocunts.json in directory for users to save account settings.
+-Always enable 2FA and store your funds in a safe location
+-Do not share access to your accounts with anyone
+-Other minor fixes
 
-User Promo Code: supitsj
+Don't forget to use "supitsj" in the top promocode box to get a free 300 credits to try us out!
 
-Free 300 credits to try our tool.
+All Features:
+✅ Support any OS that support browser, including Android & iOS.
+✅ Claim your Stake reloads.
+✅ Claim code drops from Stake Saturday Streams AUTOMATICALLY.
+✅ No need to standby to input codes.
+✅ No captcha API.
+✅ Multi accounts with single click.
+✅ Auto deposit to vault.
+✅ Additionally, manually claim code drops not covered in telegram channels.
+✅Save account info for quick startup.
 
-Download the latest release v1.1.4:
-
-https://github.com/jlucus/StakeReloadXS/releases/tag/1.1.4
+Download the latest release v1.1.5:
+https://github.com/jlucus/StakeReloadXS/releases/tag/1.1.5
 
 #1.1 HOW TO INSTALL:
 https://youtu.be/Mduz2s5Aw1Q
