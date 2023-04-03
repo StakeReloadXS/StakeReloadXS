@@ -26,10 +26,13 @@ All Features:
 Download the latest release v1.1.5:
 https://github.com/jlucus/StakeReloadXS/releases/tag/1.1.5
 
-#1.1 HOW TO INSTALL:
+#1.10 HOW TO INSTALL DESKTOP:
 https://youtu.be/Mduz2s5Aw1Q
 Follow this instruction to install the extension in your browser.
 Refer to images in this folder to easily understand the steps.
+
+#1.11 HOW TO INSTALL MOBILE DEVICE:
+https://youtube.com/shorts/wScjw3U06I0
 
 #1.2 Prerequisites:
 - Chrome browser installed for PC or Kiwi browser installed for Android.
