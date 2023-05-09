@@ -1,32 +1,19 @@
 #1.0  StakeReloadXS
 
+Version 1.2.0 Update:
+Last Update: May 9th, 2023
 
-Version 1.1.6 Update:
+https://github.com/StakeReloadXS/StakeReloadXS/releases/tag/1.2.0
 
-Last Update: April 8th, 2023
+📝Version 1.2.0 Updates
 
-fixed some crashes that cause reloads to stop claiming.
+-Added .ceo mirror
 
-fixed issue on manual claim code drop.
+-Fix backend logic
 
-code drops amount is now shown and vault enabled.
+-Upgraded server
 
-option to remove reload delay.
-
-increased reload scheduler stability.
-
-increased code drop efficiency.
-
-added secondary path /vipclub example: stake.ac/vipclub.
-
-
-💰Extra Credits
-
-Also this week only, get 20% bonus credits on $30 deposit or higher, bonus credits will be added within 24 hours.
-
-Offer valid until April 15th 23:59 UTC
-
-Dont forget to use promocode "supitsj" for a free 300 credits to try us out
+-Dont forget to use promocode "1000free" for a free 1000 credits to try us out
 
 
 #1.10 HOW TO INSTALL DESKTOP:
