@@ -1,17 +1,17 @@
 #1.0  StakeReloadXS
 
-Version 1.2.0 Update:
-Last Update: May 9th, 2023
+Version 1.2.1 Update:
+Last Update: May 19th, 2023
 
-https://github.com/StakeReloadXS/StakeReloadXS/releases/tag/1.2.0
+https://github.com/StakeReloadXS/StakeReloadXS/releases/tag/1.2.1
 
-📝Version 1.2.0 Updates
+📝Version 1.2.1 Updates
 
--Added .ceo mirror
+-added services for stake.us
 
--Fix backend logic
+-fixed an issue where new users couldnt claim after registering
 
--Upgraded server
+-improved backend logic
 
 -Dont forget to use promocode "1000free" for a free 1000 credits to try us out
 
