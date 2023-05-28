@@ -1,19 +1,15 @@
 #1.0  StakeReloadXS
 
-Version 1.2.1 Update:
-Last Update: May 19th, 2023
+📝Version 1.2.2 Update:
+May 27, 2023
 
-https://github.com/StakeReloadXS/StakeReloadXS/releases/tag/1.2.1
+1. Fixed an issue for reload claims with no delay option
+2. Added backup server as emergency service redundancy
+3. NOTE: This update is not a mandatory upgrade unless #1 applies to you.
 
-📝Version 1.2.1 Updates
+Promocode: 1000free
 
--added services for stake.us
-
--fixed an issue where new users couldnt claim after registering
-
--improved backend logic
-
--Dont forget to use promocode "1000free" for a free 1000 credits to try us out
+Any new user who uses this will be credited a temporary balance for a no deposit trial amount.
 
 
 #1.10 HOW TO INSTALL DESKTOP:
