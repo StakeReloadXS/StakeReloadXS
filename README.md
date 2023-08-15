@@ -94,7 +94,7 @@ https://youtube.com/shorts/wScjw3U06I0
 
 #5.0 Adding Credits:
 
-- Contact t.me/sp_stake to receive vouchers. DO NOT TIP SMARTPLAYER
+- Contact [t.me/sp_stake](https://t.me/sp_stake) to receive vouchers. DO NOT TIP SMARTPLAYER
 
 - $1 = 1000 credits, get 10% extra credits for transaction over $100.
 
