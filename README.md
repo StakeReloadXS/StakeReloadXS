@@ -94,7 +94,7 @@ https://youtube.com/shorts/wScjw3U06I0
 
 #5.0 Adding Credits:
 
-- Send tip to stake username SmartPlayer with your stake account you want to use to get credits.
+- Contact t.me/sp_stake to receive vouchers. DO NOT TIP SMARTPLAYER
 
 - $1 = 1000 credits, get 10% extra credits for transaction over $100.
 
