@@ -1,6 +1,7 @@
 #1.0  StakeReloadXS
 
-📝[Version 1.2.6 Update](https://t.me/sp_stake)
+📝[Version 1.2.6 Update](https://github.com/StakeReloadXS/StakeReloadXS/releases/tag/1.2.6)
+
 August 7, 2023
 
 Client App:
@@ -88,23 +89,19 @@ https://youtube.com/shorts/wScjw3U06I0
 6. Open new tab and go to stake.kim/faucet - you should see page as shown in screenshot.
 ![step 6](https://user-images.githubusercontent.com/59667760/222940719-3675b700-dc0d-4c29-aa52-9323f32cfd48.png)
 
-#2.0 Features:
-- Claim your Stake.com reload automatically. Won't cost you anything if no active reloads.
-- Claim code drops from telegram channels automatically, will support official stake channels and more soon.
-- Refer friends and earn $$$ for credits
 
-#3.0 Cost:
+#2.0 Cost:
 1. Request captcha				: 15 credits
 2. Successfuly claim code drop		: 300 credits
 3. Free for all first time users to try out (300 credits)
 
-#4.0 Notes:
+#3.0 Notes:
 1. Each first time username using this bot will receive free 200 credits.
 2. Credits can be negative up to -250 credits in case of successfuly claiming code drop.
 3. We use 5 concurrent requests for code drops for faster claims, so it will cost 5x request captcha cost on request.
 4. If claim code drop is not successful, additional cost will not be added. Only pay for requests captcha service.
 
-#5.0 Adding Credits:
+#4.0 Adding Credits:
 1. Contact [t.me/sp_stake](https://t.me/sp_stake) to receive vouchers. DO NOT TIP SMARTPLAYER
 2. $1 = 1000 credits, get 10% extra credits for transaction over $100.
 3. Credits will be added automatically and updated in next claim (or refresh page). In case credits not added, please contact me on telegram https://t.me/sp_stake
