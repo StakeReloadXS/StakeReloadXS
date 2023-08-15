@@ -5,21 +5,21 @@
 August 7, 2023
 
 Client App:
-1. Updated UI
-Settings is now global and can be changed anytime without restart
-2. Improved logs messages
-3. Fixed non English language redirection that makes the bot won't load
-4. Auto renew Cloudflare token (may not work if your IP is bad / slow connection)
-5. Fixed an issue for auto drop when first code has typo / wrong
-6. [US] Reduced daily bonus claim cost to 75 credits (30% of code drop cost)
+1. Updated UI Settings is now global and can be changed anytime without restart.
+2. Improved logs messages.
+3. Fixed non English language redirection that makes the bot won't load.
+4. Auto renew Cloudflare token (may not work if your IP is bad / slow connection).
+5. Fixed an issue for auto drop when first code has typo / wrong.
+6. [US] Reduced daily bonus claim cost to 75 credits (30% of code drop cost).
 
 Server Updates:
-1. Added extra anti captcha providers (total 4)
+1. Added extra anti captcha providers (total 4).
 NOTE:
 Previous version still work with this update.
 
 Promocode:
 1000free
+
 Any new user who uses this will be credited a temporary balance for a no deposit trial amount.
 
 Thank you, everyone, for your continued support.
@@ -65,7 +65,6 @@ Refer to images in this folder to easily understand the steps.
 #1.11 HOW TO INSTALL MOBILE DEVICE:
 
 https://youtube.com/shorts/wScjw3U06I0
-
 
 #1.2 Prerequisites:
 1.Chrome browser installed for PC or Kiwi browser installed for Android.
