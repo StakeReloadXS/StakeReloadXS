@@ -1,11 +1,11 @@
 #1.0  StakeReloadXS
 
-📝Version 1.2.2 Update:
-May 27, 2023
+📝Version 1.2.6 Update:
+August 2, 2023
 
-1. Fixed an issue for reload claims with no delay option
+1. Added extra captcha workers for load balancing.
 2. Added backup server as emergency service redundancy
-3. NOTE: This update is not a mandatory upgrade unless #1 applies to you.
+3. fixed an issue with cloudflare update on stake. Now users can refresh each Friday evening and run all week without a problem.
 
 Promocode: 1000free
 
