@@ -25,21 +25,21 @@ Any new user who uses this will be credited a temporary balance for a no deposit
 Thank you, everyone, for your continued support.
 
 All Features:
-✅ Support any OS that supports browsers, including Android & iOS.
+✅ Support any OS including mobile.
 ✅ Claim your Stake reloads.
-✅ Claim code drops from Stake Saturday Streams AUTOMATICALLY.
-✅ No need to stand by to input codes.
-✅ No captcha API.
+✅ Claim code drops AUTOMATICALLY.
+✅ Claim reloads AUTOMATICALLY.
 ✅ Multi accounts with single click.
-✅ Auto deposit to vault.
-✅ Additionally, manually claim code drops not covered in telegram channels.
-✅ Save account info for quick startup.
+✅ Auto vault deposit. 
+✅ Manually enter code drops.
+✅ Save info for fast start. 
+✅ Support for .com and .us 
+
 
 How to add credits:
-1. Contact sp_stake on telegram for vouchers
+1. Contact [t.me/sp_stake](https://t.me/sp_stake)
 2. $1 = 1000 credits, get 10% extra credits for transactions over $100.
-3. Credits will be added automatically and updated in next claim.
-4. In case credits are not added, please contact us on telegram https://t.me/sp_stake
+
 
 Best Practice:
 1. Max 6 accounts per IP for best result, less is better.
@@ -51,7 +51,7 @@ Officals:
 Telegram: Stake Auto Drops
 Discord: https://discord.gg/aBK6227mGQ
 Twitter: @StakeReloaded
-email: StakeReloadXS@outlook.com.
+email: StakeReloadXS@outlook.com
 
 #1.10 HOW TO INSTALL DESKTOP:
 
