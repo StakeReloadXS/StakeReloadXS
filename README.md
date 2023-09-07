@@ -25,14 +25,23 @@ Any new user who uses this will be credited a temporary balance for a no deposit
 Thank you, everyone, for your continued support.
 
 All Features:
-✅ Support any OS including mobile.
-✅ Claim your Stake reloads.
-✅ Claim code drops AUTOMATICALLY.
-✅ Claim reloads AUTOMATICALLY.
-✅ Multi accounts with single click.
+
+✅ Support any OS including mobile. 
+
+✅ Claim your Stake reloads. 
+
+✅ Claim code drops AUTOMATICALLY. 
+
+✅ Claim reloads AUTOMATICALLY. 
+
+✅ Multi accounts with single click. 
+
 ✅ Auto vault deposit. 
-✅ Manually enter code drops.
-✅ Save info for fast start. 
+
+✅ Manually enter code drops. 
+
+✅ Save info for fast start.  
+
 ✅ Support for .com and .us 
 
 
