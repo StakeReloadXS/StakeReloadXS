@@ -1,45 +1,45 @@
-# **📝 StakeReloadXS Version 1.3.0 Latest**
+# **📝StakeReloadXS Version 1.3.0 Latest**
 **September 10, 2023**
 
 # **Updates:**
 ### **System:**
-+ Improve stability for smartphone users.
-+ Separate fee for stream codes and daily codes.
-+ Remove /faucet URL, please use /vipclub (asia) or /vvipclub (europe).
++ ⚙️ Improved stability for mobile users.
++ ⚙️ Updated costs.
++ ⚙️ Split URLs for increased performance enhancements: use /vipclub (Asia) | /vvipclub (Europe).
 
 ### **Captcha Solving Performance:**
-1. Reduce minimum captcha solving time from 7s to 2.8s.
-2. Improve average captcha solving time from 22s to 13s.
-3. Reduce max retry code drop from 7 to 3.
-4. Show captcha solving time in logs.
-5. Credits refund automatically when failed to get captcha result.
+- 💲 Reduced captcha solving times by more than 5 seconds.
+- 💲 Improved reliability of solved captchas.
+- 💲 Improved captcha worker availability.
+- 💲 Added captcha times to logs.
+- 💲 Fixed credit refunds due to unavailability of workers.
 
 
 ### **New Features:**
-1. Claim bonus link (weekly, monthly, pre/post monthly) manual & auto - no success fee.
-2. Activate promo code (activate affiliate reloads, etc) - zero cost - no captcha needed.
-3. Option to disable claim Daily Bonus for Stake US.
-4. Display balance of selected currency.
-5. Option to check code availability before request captcha (turn it off if you got problem with rate limit, usually happen when you set too many accounts in 1 IP).
+- 🔥 Claim bonus link (weekly, monthly, pre/post monthly) manual & auto - no success fee.
+- 🔥 Activate promo code (activate affiliate reloads, etc) - zero cost - no captcha needed.
+- 🔥 Option to disable claim Daily Bonus for Stake US.
+- 🔥 Display balance of selected currency.
+- 🔥 Option to check code availability before request captcha
+>_Note: turn it off if you got problem with rate limit, usually happen when you set too many accounts in 1 IP_
 
 
-## **Pricing Changes:**
-### **COM:**
-1. Reduce success fee for stream codes from 250 to 200 credits.
-2. Increase success fee for daily codes from 250 to 350 credits (to pay the code hunter).
-### **US:**
-1. Reduce success fee for stream code from 250 to 175 credits.
-2. Reduce success fee for Daily Bonus from 75 to 30 credits.
+## **Pricing💰Changes:**
+### **COM🌐:**
++ ➕ Reduce success fee for stream codes from 250 to 200 credits.
++ ➕ Increase success fee for daily codes from 250 to 350 credits (to pay the code hunter).
+### **US⭐:**
++ ➖ Reduced success fee for stream code from 250 to 175 credits.
++ ➖ Reduced success fee for Daily Bonus from 75 to 30 credits.
 >_Note: one of our AI Solver still partially fixed, you may get several captcha errors but it won't consume credits and will retry quickly._
 
 
 ### **Promocode:**
-1000free
-1. Any new user who uses this will be credited a temporary balance for a no deposit trial amount.
+**1000free**
+>_Note:
+> Any new user who uses this will be credited a temporary balance for a no deposit trial amount._
 
-
-#### **Thank you, everyone, for your continued support.**
-
+_**Thank you, everyone, for your continued support.**_
 
 ## **All Features:**
 - ✔️ Support across every OS including mobile.
@@ -53,27 +53,26 @@
 
 
 ## **Cost | Successful Claims Only:**
-See release notes for current version
+_See release notes for the current version_
 
 
-**How to add credits:**
-1. Contact on telegram @sp_stake for batch of redeemable vouchers within the app.
-> [!WARNING]
->DO NOT TIP US ON STAKE.
-2. $1 = 1000 credits, get 10% extra credits for transactions over $100.
-3. Credits will be added automatically and updated in next claim.
-4. In case credits are not added, please contact us on telegram https://t.me/sp_stake
+## **How to Add Credits:**
+> ⚠️WARNING⚠️
+> _DO NOT TIP US ON STAKE. Starting September 10th 2023 We will no longer honor users sending tips. We have already honored over $350.00 in tips to our account that was shut down._
++ Contact on telegram [@sp_stake](https://t.me/sp_stake) for batch of redeemable vouchers within the app.
++ $1 = 1000 credits, get 10% extra credits for transactions over $100.
++ Credits will be added automatically and updated in next claim.
++ In case credits are not added, please contact us on telegram https://t.me/sp_stake
 
 
 ## **Best Practice:**
-+ Max 6 accounts per IP for best result, less is better.
-+ Refresh every Saturday before stream.
-+ Avoid to using chrome extension VPNs for long than 12 hours.
-+ Make sure chrome memory saver is off.
-
++ Max 6 accounts per IP, less = more.
++ Refresh every Friday or Saturday before 00:00 GMT.
++ Avoid using VPNs when possible.
++ Turn off Chrome memory saver.
 
 ## **Officals:**
-+ **Telegram:** [Stake Auto Drops](https://t.me/StakeAutoDrops).
-+ **Discord:** [Discord Community](https://discord.gg/aBK6227mGQ).
-+ **Twitter:** [@StakeReloaded](https://x.com/StakeReloaded).
-+ **email:** [StakeReloadXS@outlook.com](mailto:StakeReloadXS@outlook.com).
++ **Telegram:** [Stake Auto Drops](https://t.me/StakeAutoDrops)
++ **Discord:** [Discord Community](https://discord.gg/aBK6227mGQ)
++ **Twitter:** [@StakeReloaded](https://x.com/StakeReloaded)
++ **email:** [StakeReloadXS@outlook.com](mailto:StakeReloadXS@outlook.com)
