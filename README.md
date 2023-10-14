@@ -1,38 +1,34 @@
-# **📝StakeReloadXS Version 1.3.0**
-**September 10, 2023**
+# **📝StakeReloadXS Version 1.3.1**
+**October 14, 2023**
 
 
 ### **Updated**
 
 ## **System Updates:**
-- [ ] ⚙️ Improved stability for mobile users.
-- [ ] ⚙️ Updated costs.
-- [ ] ⚙️ Split URLs for increased performance enhancements: use /vipclub (Asia) | /vvipclub (Europe).
+- [ ] ⚙️ Added /xvipclub (US West) server.
 
-## **Captcha Solving Performance:**
-- [ ] 💲 Reduced captcha solving times by more than 5 seconds.
-- [ ] 💲 Improved reliability of solved captchas.
-- [ ] 💲 Improved captcha worker availability.
-- [ ] 💲 Added captcha times to logs.
-- [ ] 💲 Fixed credit refunds due to unavailability of workers.
+## **Fixes:**
+- [ ] 💲 Fix visual issue of next daily bonus claim time.
+- [ ] 💲 Retry request when bonus link (weekly, monthly, etc) failed to claim.
+- [ ] 💲 Fix page scroll behaviour.
+- [ ] 💲 Fix issue of "check code before claims" only check for first account (under test, issue may still happen).
 
 ## **New Features:**
-- [ ] 🔥 Claim bonus link (weekly, monthly, pre/post monthly) manual & auto - no success fee.
-- [ ] 🔥 Activate promo code (activate affiliate reloads, etc) - zero cost - no captcha needed.
-- [ ] 🔥 Option to disable claim Daily Bonus for Stake US.
-- [ ] 🔥 Display balance of selected currency.
-- [ ] 🔥 Option to check code availability before request captcha
->_Note: turn it off if you got problem with rate limit, usually happen when you set too many accounts in 1 IP_
+- [ ] 🔥 Request withdrawal from app (BETA).
+- [ ] 🔥 Option to disable claim reload.
+- [ ] 🔥 Display servers load.
+- [ ] 🔥 Now you can change currency without restart.
+>_Note: Withdrawal currently only support 2FA mode, email mode will be supported in next update if "Check code before claims" still have issue please disable it._
 
-## **Pricing💰Changes:**
+## **Pricing💰:**
 **COM🌐:**
-- [ ] ➕ Reduce success fee for stream codes from 250 to 200 credits.
-- [ ] ➕ Increase success fee for daily codes from 250 to 350 credits (to pay the code hunter).
+- [ ] ➕ Drop Claim   | 175 Credits
+- [ ] ➕ Reload Claim | 15 Credits
 
 **US⭐:**
-- [ ] ➖ Reduced success fee for stream code from 250 to 175 credits.
-- [ ] ➖ Reduced success fee for Daily Bonus from 75 to 30 credits.
->_Note: one of our AI Solver still partially fixed, you may get several captcha errors but it won't consume credits and will retry quickly._
+- [ ] ➕ Daily Claim   | 175 Credits
+- [ ] ➕ Drop Claim    | 200 Credits 
+- [ ] ➕ Reload Claim  | 15 Credits
 
 ### **Promocode:**
 **1000free**
@@ -49,10 +45,6 @@ _**Thank you, everyone, for your continued support.**_
 - [ ] ✔️ Added security with Vaults.
 - [ ] ✔️ Claim any drop, bonus, reload, or other manually.
 - [ ] ✔️ Store settings for fast startup.
-
-
-## **Cost | Successful Claims Only:**
-_See release notes for the current version_
 
 
 ## **How to Add Credits:**
