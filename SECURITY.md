@@ -49,8 +49,9 @@
 + If you have an idea or suggestion for our services feel free to leave us feedback.
 
 
-# **Officals:**
-+ **Telegram:** [Stake Auto Drops](https://t.me/StakeAutoDrops)
-+ **Discord:** [Discord Community](https://discord.gg/aBK6227mGQ)
-+ **Twitter:** [@StakeReloaded](https://x.com/StakeReloaded)
-+ **email:** [StakeReloadXS@outlook.com](mailto:StakeReloadXS@outlook.com)
+## **Officals:**
+- [ ] **Telegram:** [Stake Reload Community](https://t.me/ReloadXS)
+- [ ] **Discord:** [Discord Community](https://discord.gg/aBK6227mGQ)
+- [ ] **Twitter:** [@StakeReloaded](https://x.com/StakeReloaded)
+- [ ] **email:** [StakeReloadXS@outlook.com](mailto:StakeReloadXS@outlook.com)
+

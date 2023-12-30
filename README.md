@@ -1,16 +1,18 @@
-# **📝[Version 1.3.2 Update](https://github.com/StakeReloadXS/StakeReloadXS/releases/tag/1.3.2) [Latest](https://github.com/StakeReloadXS/StakeReloadXS/releases/latest)**
-**November 4, 2023**
+# **📝[Version 1.4.0 Update](https://github.com/StakeReloadXS/StakeReloadXS/releases/tag/1.4.0) [Latest](https://github.com/StakeReloadXS/StakeReloadXS/releases/latest)**
+**December 30, 2023**
 
 ### **Updated**
 
-## **Fixes:**
-- [ ] ⚙️ New server /svipclub (Singapore) - access code required
-
+## **Upgrades:**
+- [ ] ⚙️ New server /svipclub (Singapore) - access code required.
+- [ ] ⚙️ All functions is back to normal.
+- [ ] ⚙️ Captcha speed medium (10-60s).
+- [ ] ⚙️ We are still upgrading our AI solver to handle new type of captcha from Stake, the speed will be much faster.
+- [ ] ⚙️ Private servers will be up ASAP.
 
 ## **Added Features:**
-- [ ] 🔥 [US only] Option to reject code from Stake Auto Drop channel, enable this for eco mode because Stake Auto Drop mostly send .com codes (disable on weekly to get secret codes).
-- [ ] 🔥 Fix Bonus Link claim keep retrying when unavailable.
->_Note: If you are not using new updates you dont need to update to this version._
+- [ ] 🔥 Upgrades in preparation for future features. 
+>_Note: If you are not using new updates you need to update to this version._
 
 ### **Promocode:**
 **1000free**
@@ -28,7 +30,7 @@ _**Thank you, everyone, for your continued support.**_
 - [ ] ✔️ Claim any drop, bonus, reload, or other manually.
 - [ ] ✔️ Store settings for fast startup.
 
-## **Pricing💰v131:**
+## **Pricing💰v140:**
 **COM🌐:**
 - [ ] ➕ Reload Claim | 15 Credits
 - [ ] ➕ Drop Claim   | 175 Credits
@@ -67,7 +69,7 @@ _Use /svipclub (Singapore) - Access code required!_
 _Use /xvipclub for any issues - Access code required!._
 
 ## **Officals:**
-- [ ] **Telegram:** [Stake Auto Drops](https://t.me/StakeAutoDrops)
+- [ ] **Telegram:** [Stake Reload Community](https://t.me/ReloadXS)
 - [ ] **Discord:** [Discord Community](https://discord.gg/aBK6227mGQ)
 - [ ] **Twitter:** [@StakeReloaded](https://x.com/StakeReloaded)
 - [ ] **email:** [StakeReloadXS@outlook.com](mailto:StakeReloadXS@outlook.com)
