@@ -1,4 +1,4 @@
-# **📝[Version 1.4.3 Update Latest](https://github.com/StakeReloadXS/StakeReloadXS/releases/tag/1.4.3)[Latest](https://github.com/StakeReloadXS/StakeReloadXS/releases/latest)**
+# **📝[Version 1.4.3 Update ](https://github.com/StakeReloadXS/StakeReloadXS/releases/tag/1.4.3)[Latest](https://github.com/StakeReloadXS/StakeReloadXS/releases/latest)**
 **February 21, 2024**
 
 ## **Updates:**
