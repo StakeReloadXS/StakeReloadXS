@@ -1,5 +1,5 @@
-## **📝Version 1.4.3 Update Latest**
-### **February 21, 2024**
+# **📝[Version 1.4.3 Update Latest](https://github.com/StakeReloadXS/StakeReloadXS/releases/tag/1.4.3)[Latest](https://github.com/StakeReloadXS/StakeReloadXS/releases/latest)**
+**February 21, 2024**
 
 ## **Updates:**
 - [ ] ⚙️ Fixed Auto Server Selection.
@@ -48,6 +48,7 @@ Thank you, everyone, for your continued support.
 - [ ] Refresh every Friday or Saturday before 00:00 GMT.
 - [ ] Avoid using VPNs when possible.
 - [ ] Turn off Chrome memory saver.
+
 ### **How To Install:**
 - [ ] Open your browser then type and enter on address bar chrome://extensions (or brave://extensions kiwi://extensions depends on what browser you use).
 - [ ] Activate "Developer Mode" switch located on top right of the page.
@@ -60,6 +61,7 @@ _Use /vipclub if your device IP near asia._
 _Use /vvipclub if your device IP near europe._
 _Use /svipclub (Singapore) - Access code required!_
 _Use /xvipclub for any issues - Access code required!._
+
 ## **Officials:**
 - [ ] **Telegram:** [Stake Reload Community](https://t.me/ReloadXS)
 - [ ] **Discord:** [Discord Community](https://discord.gg/aBK6227mGQ)
