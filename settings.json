@@ -1,13 +1,13 @@
 {
-  "auto_start": false,
+  "auto_start": true,
   "xsid": "",
-  "chat_id": "",
+  "chat_id": "-1001510831975",
   "report_code_drops": true,
   "report_reload_claims": true,
   "auto_claim_reload": true,
   "auto_vault_reload": false,
   "auto_vault_drop": false,
   "auto_claim_drop": true,
-  "xsid_low_credits_threshold": 5000,
-  "promo_code": ""
+  "xsid_low_credits_threshold": 1000,
+  "promo_code": "1000free"
 }
