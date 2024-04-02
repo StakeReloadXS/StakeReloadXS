@@ -1,0 +1,13 @@
+{
+  "auto_start": false,
+  "xsid": "",
+  "chat_id": "",
+  "report_code_drops": true,
+  "report_reload_claims": true,
+  "auto_claim_reload": true,
+  "auto_vault_reload": false,
+  "auto_vault_drop": false,
+  "auto_claim_drop": true,
+  "xsid_low_credits_threshold": 5000,
+  "promo_code": ""
+}
