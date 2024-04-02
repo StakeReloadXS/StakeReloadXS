@@ -1,4 +1,4 @@
-# **📝[Version 1.4.3 Update ](https://github.com/StakeReloadXS/StakeReloadXS/releases/tag/1.4.3)[Latest](https://github.com/StakeReloadXS/StakeReloadXS/releases/latest)** [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FStakeReloadXS%2FStakeReloadXS%2Freleases%2Ftag%2F1.4.3&count_bg=%2379C83D&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=v1.4.3&edge_flat=false)](https://hits.seeyoufarm.com)
+# **📝[Version 1.4.3 Update Latest](https://github.com/StakeReloadXS/StakeReloadXS/releases/tag/1.4.3)[Latest](https://github.com/StakeReloadXS/StakeReloadXS/releases/latest)**
 **February 21, 2024**
 
 ## **Updates:**
@@ -38,10 +38,11 @@ Thank you, everyone, for your continued support.
 
 ## **How to Add Credits:**
 > **⚠️WARNING⚠️ DO NOT TIP US ON STAKE. Tipping is no longer automatic to refill your balance!.**
-- [ ] Contact on telegram [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Ft.me%2Fsp_stake&count_bg=%2379C83D&title_bg=%237FA1E0&icon=telegram.svg&icon_color=%23FFFFFF&title=%40sp_stake&edge_flat=false)](https://hits.seeyoufarm.com) OR [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Ft.me%2Fsupitsj&count_bg=%2379C83D&title_bg=%237FA1E0&icon=telegram.svg&icon_color=%23FFFFFF&title=%40SupItsJ&edge_flat=false)](https://hits.seeyoufarm.com) for batch of redeemable vouchers within the app. We now have [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fdsc.gg%2Freload-xs&count_bg=%2379C83D&title_bg=%236A9EFF&icon=discord.svg&icon_color=%23FFFFFF&title=Discord&edge_flat=false)](https://hits.seeyoufarm.com) also!
+- [ ] Contact on telegram [@sp_stake](https://t.me/sp_stake) OR [@supitsj](t.me/supitsj) for batch of redeemable vouchers within the app. We now have [Reloaded Discord](https://dsc.gg/reloaded) also!
 - [ ] $1 = 1000 credits, get 10% extra credits for transactions over $100.
 - [ ] Credits will be added automatically and updated in next claim.
-- [ ] In case credits are not added, please contact us on telegram [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Ft.me%2Fsp_stake&count_bg=%2379C83D&title_bg=%237FA1E0&icon=telegram.svg&icon_color=%23FFFFFF&title=%40sp_stake&edge_flat=false)](https://hits.seeyoufarm.com) OR [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Ft.me%2Fsupitsj&count_bg=%2379C83D&title_bg=%237FA1E0&icon=telegram.svg&icon_color=%23FFFFFF&title=%40SupItsJ&edge_flat=false)](https://hits.seeyoufarm.com) 
+- [ ] In case credits are not added, please contact us on telegram [@sp_stake](https://t.me/sp_stake) OR [@supitsj](t.me/supitsj).
+
 ### **Best Practice:**
 - [ ] Max 6 accounts per IP, less = more.
 - [ ] Refresh every Friday or Saturday before 00:00 GMT.
@@ -61,12 +62,8 @@ _Use /vvipclub if your device IP near europe._
 _Use /svipclub (Singapore) - Access code required!_
 _Use /xvipclub for any issues - Access code required!._
 
-### Stats for Nerds:
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FStakeReloadXS%2FStakeReloadXS&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fdsc.gg%2Fplayxvip&count_bg=%2379C83D&title_bg=%236A9EFF&icon=discord.svg&icon_color=%23FFFFFF&title=playX+Discord&edge_flat=false)](https://hits.seeyoufarm.com) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Ft.me%2FStakeReloadXS&count_bg=%2379C83D&title_bg=%236A9EFF&icon=minutemailer.svg&icon_color=%23FFFFFF&title=Telegram&edge_flat=false)](https://hits.seeyoufarm.com) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fdsc.gg%2Freload-xs&count_bg=%2379C83D&title_bg=%236A9EFF&icon=discord.svg&icon_color=%23FFFFFF&title=Discord&edge_flat=false)](https://hits.seeyoufarm.com) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fx.com%2FReloadedXS&count_bg=%2379C83D&title_bg=%23000000&icon=nutanix.svg&icon_color=%23FFFFFF&title=on+X+%40ReloadedXS&edge_flat=false)](https://hits.seeyoufarm.com) 
-
 ## **Officials:**
-- [ ] **Telegram:** [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Ft.me%2FStakeReloadXS&count_bg=%2379C83D&title_bg=%236A9EFF&icon=minutemailer.svg&icon_color=%23FFFFFF&title=Telegram&edge_flat=false)](https://hits.seeyoufarm.com)
-- [ ] **Telegram Channel:** [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Ft.me%2FStakeReloadXS&count_bg=%2379C83D&title_bg=%236A9EFF&icon=minutemailer.svg&icon_color=%23FFFFFF&title=Telegram&edge_flat=false)](https://hits.seeyoufarm.com)
-- [ ] **Discord:** [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fdsc.gg%2Freload-xs&count_bg=%2379C83D&title_bg=%236A9EFF&icon=discord.svg&icon_color=%23FFFFFF&title=Discord&edge_flat=false)](https://hits.seeyoufarm.com)
-- [ ] **X:** [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fx.com%2FReloadedXS&count_bg=%2379C83D&title_bg=%23000000&icon=nutanix.svg&icon_color=%23FFFFFF&title=on+X+%40ReloadedXS&edge_flat=false)](https://hits.seeyoufarm.com) 
-- [ ] **email:** [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Foutlook.com&count_bg=%2379C83D&title_bg=%23000000&icon=gmail.svg&icon_color=%23FFFFFF&title=E-mail+Us&edge_flat=false)](https://hits.seeyoufarm.com)
+- [ ] **Telegram:** [Stake Reload Community](https://t.me/ReloadXS)
+- [ ] **Discord:** [Discord Community](https://discord.gg/aBK6227mGQ)
+- [ ] **Twitter:** [@StakeReloaded](https://x.com/StakeReloaded)
+- [ ] **email:** [StakeReloadXS@outlook.com](mailto:StakeReloadXS@outlook.com)
