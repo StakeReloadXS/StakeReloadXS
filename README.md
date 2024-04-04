@@ -33,19 +33,19 @@ We added **settings.json**, so you can preset your bot before starting it.
 **Low Credits:**
 >Invite [StakeReloadXS Assistant](https://t.me/srxs_bot) to a group on telegram and get the group ID from [Raw Group Info Bot](https://t.me/SimpleID_Bot) to stay up to date with event logs from your accounts.
 
-> {
->   "auto_start": true,
->   "xsid": "XSID",
->   "chat_id": "-1001510831975",
->   "report_code_drops": true,
->   "report_reload_claims": true,
->   "auto_claim_reload": true,
->   "auto_vault_reload": false,
->   "auto_vault_drop": false,
->   "auto_claim_drop": true,
->   "xsid_low_credits_threshold": 1000,
->   "promo_code": "1000free"
-> }
+{
+   "auto_start": true,
+   "xsid": "XSID",
+   "chat_id": "-1001510831975",
+   "report_code_drops": true,
+   "report_reload_claims": true,
+   "auto_claim_reload": true,
+   "auto_vault_reload": false,
+   "auto_vault_drop": false,
+   "auto_claim_drop": true,
+   "xsid_low_credits_threshold": 1000,
+   "promo_code": "1000free"
+}
 
 Navigate to the offer page. Now you can easily create a system task to open chrome on a schedule and bot will automatically begin, no more missing Saturday codes.
 
