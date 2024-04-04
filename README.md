@@ -1,26 +1,56 @@
-# **📝[Version 1.5.0 Update ](https://github.com/StakeReloadXS/StakeReloadXS/releases/tag/1.5.0)[Latest](https://github.com/StakeReloadXS/StakeReloadXS/releases/latest)**
+# **📝[Version 1.5.0 Update Latest ](https://github.com/StakeReloadXS/StakeReloadXS/releases/tag/1.5.0)[Latest](https://github.com/StakeReloadXS/StakeReloadXS/releases/latest)**
 **April 02, 2024**
 
 ## **Updates:**
 🖥 Version 1.5.0 Update - Instant Captcha (bypass).
+Please read carefully all of the updates.
+
+If you have not registered on [Shuffle](https://tinyurl.com/playShufflecom) yet, we are happy to offer VIP Transfers to users exclusively along with a %100 First Deposit bonus. Along with this comes [DOUBLE MY WEEKLY](https://x.com/Jandrew_Tate/status/1774944223734780158?s=20) for all affiliates. Contact [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Ft.me%2Fsupitsj&count_bg=%2379C83D&title_bg=%237FA1E0&icon=telegram.svg&icon_color=%23FFFFFF&title=%40SupItsJ&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### **🔗URL Update**
-If the usual URL doesn't work, use this new URL format to open the bot stake.com/blog/vipclub.
+**stake.com/blog/vipclub** 
+THEN SCROLL DOWN
+YOU WILL SEE THE STAKE MENU AND CHAT AREA
+FOR XSDROP TO WORK YOU MUST BE LOGGED IN AND HAVE A XSID
+DROPXS WILL ONLY CLAIM THIS ACCOUNT THAT IS LOGGED IN
 
 ### **🪪XSID**
-with XSID you only need to manage 1 credits system, top up 1 XSID only to use it for all your accounts.
-Later we will create a function to convert your remaining accounts credits to XSID credits.
+With an XSID you only need to manage 1 credits system, top up 1 XSID only to use it for all your accounts.
+>Later we will create a function to convert your remaining accounts credits to XSID credits.
 
 ### **⚙Settings File**
-We added settings.json, so you can preset your bot before starting it.
-**auto start:**
-Will load from accounts.json after connected to the server and then Start automatically.
+We added **settings.json**, so you can preset your bot before starting it.
+
+**Auto Start:**
+>Will load from accounts.json after connected to the server and then Start automatically.
+
 **XSID(optional):**
-Put your xsid and auto assign it after connected to the server.
+>Put your XSID and auto assign it after connected to the server.
+
 **Chat ID(optional):**
-Your telegram id for reports.
-**Low Credits:** 
-Alert you on telegram when your XSID credits is low and other options to preset the checkbox settings.
+>Your telegram group ID for reports (see below).
+
+**Low Credits:**
+>Invite [StakeReloadXS Assistant](https://t.me/srxs_bot) to a group on telegram and get the group ID from [Raw Group Info Bot](https://t.me/SimpleID_Bot) to stay up to date with event logs from your accounts.
+
+> {
+>   "auto_start": true,
+>   "xsid": "XSID",
+>   "chat_id": "-1001510831975",
+>   "report_code_drops": true,
+>   "report_reload_claims": true,
+>   "auto_claim_reload": true,
+>   "auto_vault_reload": false,
+>   "auto_vault_drop": false,
+>   "auto_claim_drop": true,
+>   "xsid_low_credits_threshold": 1000,
+>   "promo_code": "1000free"
+> }
+
+Navigate to the offer page. Now you can easily create a system task to open chrome on a schedule and bot will automatically begin, no more missing Saturday codes.
+
+![image](https://github.com/StakeReloadXS/StakeReloadXS/assets/59667760/afa2bbc9-b957-4541-9758-5a01ab3d44e7)
+
 
 ## **⚡Instant Captcha**
 Instant captcha feature can provide your captcha instantly without waiting for captcha provider, the only waiting time  is only between you and our server.
@@ -38,26 +68,27 @@ Instant captcha feature can provide your captcha instantly without waiting for c
 >_Note: Any new user who uses this will be credited a temporary balance for a no deposit trial amount._
 Thank you, everyone, for your continued support.
 
-
-## **All Features:**
-- [ ] ✔️ Support across every OS including mobile.
-- [ ] ✔️ Automatic Reload Claims.
-- [ ] ✔️ Automatic Social Drop Claims.
-- [ ] ✔️ Eliminate annoying captchas.
+## **All Features Version 1.5.0:**
+- [ ] ✔️ Support across every OS including mobile (no mobile support for DropXS).
+- [ ] ✔️ 🆕Store settings for fast startup.
+- [ ] ✔️ 🆕Automatically start the bot.
+- [ ] ✔️ 🆕Report bot events to telegram.
+- [ ] ✔️ 🆕Completely Bypass captchas.
 - [ ] ✔️ Multi account with ease.
 - [ ] ✔️ Added security with Vaults.
 - [ ] ✔️ Claim any drop, bonus, reload, or other manually.
-- [ ] ✔️ Store settings for fast startup.
 
-### **Pricing💰v143:**
+
+### **Pricing💰v150:**
 **COM🌐:**
 - [ ] ➕ Reload Claim | 15 Credits
-- [ ] ➕ Drop Claim | 175 Credits
+- [ ] ➕ Drop Claim | 300 Credits
 
-**US⭐:**
+**US⭐ NO DROP XS:**
 - [ ] ➖ Daily Claim | 250 Credits
 - [ ] ➖ Reload Claim | 15 Credits
 - [ ] ➖ Drop Claim | 175 Credits
+
 >_Note: Pricing Rates for this release._
 ## **How to Add Credits:**
 > **⚠️WARNING⚠️ DO NOT TIP US ON STAKE. Tipping is no longer automatic to refill your balance!.**
