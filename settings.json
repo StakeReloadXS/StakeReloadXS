@@ -9,5 +9,5 @@
   "auto_vault_drop": false,
   "auto_claim_drop": true,
   "xsid_low_credits_threshold": 1000,
-  "promo_code": "1000free"
+  "promo_code": "1000free",
 }
