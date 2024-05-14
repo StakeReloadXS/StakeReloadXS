@@ -1,66 +1,59 @@
-# **📝[Version 1.5.0 Update Latest ](https://github.com/StakeReloadXS/StakeReloadXS/releases/tag/1.5.0)[Latest](https://github.com/StakeReloadXS/StakeReloadXS/releases/latest)**
-**April 02, 2024**
+# **📝[Version 1.5.4 Updates: ](https://github.com/StakeReloadXS/StakeReloadXS/releases/tag/1.5.4)[Latest](https://github.com/StakeReloadXS/StakeReloadXS/releases/latest)**
+**May 14, 2024**
 
-## **Updates:**
-🖥 Version 1.5.0 Update - Instant Captcha (bypass).
-Please read carefully all of the updates.
+## ❤️ReloadXS 1.5.4 Updates❤️
+### Updates:
+- Implement additional support for Turbo Captcha.
+- Soon we will release a support channel since we have a lot of requests to different members of staff. More on this later.
+- Fix misplaced code that causing bot to crash after a long run.
+- Fix refund captcha when using xsid, was refunded to account instead of XSID.
+- Fix /vipclub server was down for a while.
+- Bot will retry request up to 3 time when receiving "Unknown Error xxxxxxx" message from Stake.
+- Bot will reject same code that coming before 10 seconds passed, this may avoid Rate Limit when we accidentally input the code twice.
 
-If you have not registered on [Shuffle](https://tinyurl.com/playShufflecom) yet, we are happy to offer VIP Transfers to users exclusively along with a %100 First Deposit bonus. Along with this comes [DOUBLE MY WEEKLY](https://x.com/Jandrew_Tate/status/1774944223734780158?s=20) for all affiliates. Contact [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Ft.me%2Fsupitsj&count_bg=%2379C83D&title_bg=%237FA1E0&icon=telegram.svg&icon_color=%23FFFFFF&title=%40SupItsJ&edge_flat=false)](https://hits.seeyoufarm.com)
+### 🎮Type of Captcha:
+- Normal Captcha 6-60s = work anytime for all kind of captcha type.
+- Turbo Captcha 2-6s = work anytime, only for code drops, requires XSID.
+- Instant Captcha 0-2s = work on weekly stream, only for code drops, requires XSID.
 
 ### **🔗URL Update**
 **stake.com/blog/vipclub** 
-THEN SCROLL DOWN
-YOU WILL SEE THE STAKE MENU AND CHAT AREA
-FOR XSDROP TO WORK YOU MUST BE LOGGED IN AND HAVE A XSID
-DROPXS WILL ONLY CLAIM THIS ACCOUNT THAT IS LOGGED IN
 
 ### **🪪XSID**
 With an XSID you only need to manage 1 credits system, top up 1 XSID only to use it for all your accounts.
 >Later we will create a function to convert your remaining accounts credits to XSID credits.
 
-### **⚙Settings File**
-We added **settings.json**, so you can preset your bot before starting it.
-
-**Auto Start:**
+### **⚙Settings File:**
+- ** We added **settings.json**, so you can preset your bot before starting it.
+- **Auto Start:**
 >Will load from accounts.json after connected to the server and then Start automatically.
-
-**XSID(optional):**
+- **XSID(optional but recommended):**
 >Put your XSID and auto assign it after connected to the server.
-
-**Chat ID(optional):**
+- **Chat ID(optional):**
 >Your telegram group ID for reports (see below).
-
-**Low Credits:**
+- **Low Credits:**
 >Invite [StakeReloadXS Assistant](https://t.me/srxs_bot) to a group on telegram and get the group ID from [Raw Group Info Bot](https://t.me/SimpleID_Bot) to stay up to date with event logs from your accounts.
 
-{
-   "auto_start": true,
-   "xsid": "XSID",
-   "chat_id": "-1001510831975",
-   "report_code_drops": true,
-   "report_reload_claims": true,
-   "auto_claim_reload": true,
-   "auto_vault_reload": false,
-   "auto_vault_drop": false,
-   "auto_claim_drop": true,
-   "xsid_low_credits_threshold": 1000,
-   "promo_code": "1000free"
-}
-
-Navigate to the offer page. Now you can easily create a system task to open chrome on a schedule and bot will automatically begin, no more missing Saturday codes.
-
-![image](https://github.com/StakeReloadXS/StakeReloadXS/assets/59667760/afa2bbc9-b957-4541-9758-5a01ab3d44e7)
-
+> {
+>   "auto_start": true,
+>   "xsid": "XSID",
+>   "chat_id": "-1001510831975",
+>   "report_code_drops": true,
+>   "report_reload_claims": true,
+>   "auto_claim_reload": true,
+>   "auto_vault_reload": false,
+>   "auto_vault_drop": false,
+>   "auto_claim_drop": true,
+>   "xsid_low_credits_threshold": 1000,
+>   "promo_code": "1000free"
+> }
 
 ## **⚡Instant Captcha**
 Instant captcha feature can provide your captcha instantly without waiting for captcha provider, the only waiting time  is only between you and our server.
 **More about this feature:**
 - Require XSID with instant support to work
 - Only available during weekly stream
-
-### **🔧 Other Updates**
-- fixed bonus link issue
-- removed restriction for xvip and svip
+- Not to be confused with StakeDropXS (also part of our line of products but they are distinctly different, and available for .com users only.)
 
 ## **Promocode:**
 1000free
@@ -79,7 +72,7 @@ Thank you, everyone, for your continued support.
 - [ ] ✔️ Claim any drop, bonus, reload, or other manually.
 
 
-### **Pricing💰v150:**
+### **Pricing💰v154:**
 **COM🌐:**
 - [ ] ➕ Reload Claim | 15 Credits
 - [ ] ➕ Drop Claim | 300 Credits
