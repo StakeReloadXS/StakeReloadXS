@@ -1,5 +1,21 @@
-# 📝**[Version 1.5.4 Updates: ](https://github.com/StakeReloadXS/StakeReloadXS/releases/tag/1.5.4)[Latest](https://github.com/StakeReloadXS/StakeReloadXS/releases/latest)**
+# 📝**[Version 1.5.4 Updates: ](https://github.com/StakeReloadXS/StakeReloadXS/releases/tag/1.5.4)[Latest](https://github.com/StakeReloadXS/StakeReloadXS/releases/latest)**  
 **May 14, 2024**
+
+What's in the [.zip](https://github.com/StakeReloadXS/StakeReloadXS/releases/download/1.5.4/StakeReloadXS-v1.5.4.zip) archive:  
+├── src/  
+│   ├── HowToInstall/  
+│   │── │── EN-Useage.txt  
+│   │── │── HOWTOINSTALL.txt  
+│   │── │── step 1-6.png  
+├── static/  
+│   ├── js/  
+│── ├──  ├── index.js  
+├── accounts.json  
+├── content-script.js  
+├── index.html  
+├── manifest.json  
+├── readme.md  
+├── settings.json  
 
 ## ❤️**ReloadXS 1.5.4 Updates❤️**
 ### Updates:
