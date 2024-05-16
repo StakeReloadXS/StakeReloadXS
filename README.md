@@ -3,13 +3,13 @@
 
 What's in the [.zip](https://github.com/StakeReloadXS/StakeReloadXS/releases/download/1.5.4/StakeReloadXS-v1.5.4.zip) archive:  
 ├── src/  
-│   ├── HowToInstall/  
-│   │── │── EN-Useage.txt  
-│   │── │── HOWTOINSTALL.txt  
-│   │── │── step 1-6.png  
+├── ├── HowToInstall/  
+├── ├── ├── EN-Useage.txt  
+├── ├── ├── HOWTOINSTALL.txt  
+├── ├── ├── step 1-6.png  
 ├── static/  
-│   ├── js/  
-│── ├──  ├── index.js  
+├── ├── js/  
+├── ├── ├── index.js  
 ├── accounts.json  
 ├── content-script.js  
 ├── index.html  
