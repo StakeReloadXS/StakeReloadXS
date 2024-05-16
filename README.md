@@ -1,7 +1,7 @@
-# **📝[Version 1.5.4 Updates: ](https://github.com/StakeReloadXS/StakeReloadXS/releases/tag/1.5.4)[Latest](https://github.com/StakeReloadXS/StakeReloadXS/releases/latest)**
+# 📝**[Version 1.5.4 Updates: ](https://github.com/StakeReloadXS/StakeReloadXS/releases/tag/1.5.4)[Latest](https://github.com/StakeReloadXS/StakeReloadXS/releases/latest)**
 **May 14, 2024**
 
-## ❤️ReloadXS 1.5.4 Updates❤️
+## ❤️**ReloadXS 1.5.4 Updates❤️**
 ### Updates:
 - Implement additional support for Turbo Captcha.
 - Soon we will release a support channel since we have a lot of requests to different members of staff. More on this later.
@@ -11,28 +11,28 @@
 - Bot will retry request up to 3 time when receiving "Unknown Error xxxxxxx" message from Stake.
 - Bot will reject same code that coming before 10 seconds passed, this may avoid Rate Limit when we accidentally input the code twice.
 
-### 🎮Type of Captcha:
+### 🎮**Type of Captcha:**
 - Normal Captcha 6-60s = work anytime for all kind of captcha type.
 - Turbo Captcha 2-6s = work anytime, only for code drops, requires XSID.
 - Instant Captcha 0-2s = work on weekly stream, only for code drops, requires XSID.
 
-### **🔗URL Update**
+### 🔗**URL Update:**
 **stake.com/blog/vipclub** 
 
-### **🪪XSID**
+### 🪪**XSID**
 With an XSID you only need to manage 1 credits system, top up 1 XSID only to use it for all your accounts.
 >Later we will create a function to convert your remaining accounts credits to XSID credits.
 
-### **⚙Settings File:**
-- ** We added **settings.json**, so you can preset your bot before starting it.
+### ⚙**Settings File:**
+- We added settings.json, so you can preset your bot before starting it.
 - **Auto Start:**
->Will load from accounts.json after connected to the server and then Start automatically.
+> Will load from accounts.json after connected to the server and then Start automatically.
 - **XSID(optional but recommended):**
->Put your XSID and auto assign it after connected to the server.
+> Put your XSID and auto assign it after connected to the server.
 - **Chat ID(optional):**
->Your telegram group ID for reports (see below).
+> Your telegram group ID for reports (see below).
 - **Low Credits:**
->Invite [StakeReloadXS Assistant](https://t.me/srxs_bot) to a group on telegram and get the group ID from [Raw Group Info Bot](https://t.me/SimpleID_Bot) to stay up to date with event logs from your accounts.
+> Invite [StakeReloadXS Assistant](https://t.me/srxs_bot) to a group on telegram and get the group ID from [Raw Group Info Bot](https://t.me/SimpleID_Bot) to stay up to date with event logs from your accounts.
 
 > {
 >   "auto_start": true,
@@ -46,7 +46,7 @@ With an XSID you only need to manage 1 credits system, top up 1 XSID only to use
 >   "auto_claim_drop": true,
 >   "xsid_low_credits_threshold": 1000,
 >   "promo_code": "1000free"
-> }
+> }_
 
 ## **⚡Instant Captcha**
 Instant captcha feature can provide your captcha instantly without waiting for captcha provider, the only waiting time  is only between you and our server.
