@@ -1,4 +1,4 @@
-# 📝**[Version 1.5.4-1 Updates: ](https://github.com/StakeReloadXS/StakeReloadXS/releases/1.5.4-1) [Latest](https://github.com/StakeReloadXS/StakeReloadXS/releases/download/1.5.4-1/DropXS-1.1.8-Public.com.zip)**  
+# 📝**[Stake ReloadXS Version 1.5.4-1 Updates: ](https://github.com/StakeReloadXS/StakeReloadXS/releases/1.5.4-1)  |  [DropXS V 1.1.9](https://github.com/StakeReloadXS/StakeReloadXS/releases/download/1.5.4-1/DropXS-1.1.9-PublicCom.zip)**  
 **June 1, 2024**  
 
 New [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Ft.me%2FNightGuild&count_bg=%231A286C&title_bg=%230218DF&icon=telegram.svg&icon_color=%23E7E7E7&title=Channel&edge_flat=false)](https://hits.seeyoufarm.com) with build in notifications from Stake, Shuffle and soon: Gamba, Rollbit, WSM, TGC.
@@ -23,7 +23,7 @@ What's in the ReloadXS [.zip ](https://github.com/StakeReloadXS/StakeReloadXS/re
 ├── readme.md  
 ├── settings.json  
 
-What's in the DropXS [.zip](https://github.com/StakeReloadXS/StakeReloadXS/releases/download/1.5.4-1/DropXS-1.1.8-Public.com.zip) archive?:  
+What's in the DropXS [.zip](https://github.com/StakeReloadXS/StakeReloadXS/releases/download/1.5.4-1/StakeDropXS-1.1.9-PublicCom.zip) archive?:  
 ├── src/  
 ├── static/  
 ├── ├── js/  
@@ -34,12 +34,9 @@ What's in the DropXS [.zip](https://github.com/StakeReloadXS/StakeReloadXS/relea
 ├── manifest.json  
 ├── settings.json 
  
-# **DropXS 1.1.8 Updates**
-- Telegram report fixed
-- Additionally you can set your own Telegram Bot API for better reporting experience
-- Added handling when code is fully claimed
-- Added handling when code is not found
-- Faster server code broadcasting when the server crowded
+# **DropXS 1.1.9 Updates**
+- Fixed spam notification issue on Code Fully Claimed
+- Improved broadcasting method 80% more efficient (faster)
 
 ## ❤️**ReloadXS 1.5.4 Updates❤️**
 ### Updates:
