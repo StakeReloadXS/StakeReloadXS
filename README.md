@@ -1,13 +1,14 @@
-# 📝**[Stake ReloadXS Version 1.5.4-1 Updates: ](https://github.com/StakeReloadXS/StakeReloadXS/releases/1.5.4-1)  |  [DropXS V 1.1.9](https://github.com/StakeReloadXS/StakeReloadXS/releases/download/1.5.4-1/DropXS-1.1.9-PublicCom.zip)**  
-**June 1, 2024**  
+# 📝**[Stake ReloadXS Version 1.6.0 Updates: ](https://github.com/StakeReloadXS/StakeReloadXS/releases/download/1.6.0/StakeReloadXS-v1.6.0.zip)  |  [DropXS V 1.1.9](https://github.com/StakeReloadXS/StakeReloadXS/releases/download/1.6.0/DropXS-1.1.9-PublicCom.zip)**  
+**June 6, 2024**  
 
-New [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Ft.me%2FNightGuild&count_bg=%231A286C&title_bg=%230218DF&icon=telegram.svg&icon_color=%23E7E7E7&title=Channel&edge_flat=false)](https://hits.seeyoufarm.com) with build in notifications from Stake, Shuffle and soon: Gamba, Rollbit, WSM, TGC.
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Ft.me%2Fgamba_account_bot&count_bg=%2379C83D&title_bg=%23FF0052&icon=telegram.svg&icon_color=%23E7E7E7&title=%40gamba_account_bot&edge_flat=false)](https://hits.seeyoufarm.com) | New [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Ft.me%2FNightGuild&count_bg=%231A286C&title_bg=%230218DF&icon=telegram.svg&icon_color=%23E7E7E7&title=Channel&edge_flat=false)](https://hits.seeyoufarm.com) with build in notifications from Stake, Shuffle, Gamba more soon.
 
-> If you don't have a Gamba account you can sign up and earn a free $5. Sign up and use [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Ftinyurl.com%2FBetOnGamba&count_bg=%233C6020&title_bg=%23048D5F&icon=facebookgaming.svg&icon_color=%23E7E7E7&title=BetOnGamba&edge_flat=false)](https://hits.seeyoufarm.com) > for %15 cashback, place $1 bet and receive $5.  
+![320x100](https://github.com/StakeReloadXS/StakeReloadXS/assets/59667760/7747004f-aaf9-401e-81d6-906b386a45c0)
+> If you don't have a Gamba account you can sign up and earn a free $5. Sign up and use [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Ft.me%2Fgamba_account_bot&count_bg=%2379C83D&title_bg=%23FF0052&icon=telegram.svg&icon_color=%23E7E7E7&title=%40gamba_account_bot&edge_flat=false)](https://hits.seeyoufarm.com) > for %15 cashback, place $1 bet and receive $5.  
 
 💬 VIP? [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Ft.me%2Fsupitsj&count_bg=%233C6020&title_bg=%2385A5E5&icon=googlehangoutschat.svg&icon_color=%23E7E7E7&title=SupItsJ&edge_flat=false)](https://hits.seeyoufarm.com) for a VIP transfer, and up to $25 for signing up.  
 
-What's in the ReloadXS [.zip ](https://github.com/StakeReloadXS/StakeReloadXS/releases/download/1.5.4-1/StakeReloadXS-v1.5.4-1.zip) archive?:  
+What's in the ReloadXS [.zip ](https://github.com/StakeReloadXS/StakeReloadXS/releases/download/1.6.0/StakeReloadXS-v1.6.0.zip) archive?:  
 ├── src/  
 ├── ├── HowToInstall/  
 ├── ├── ├── EN-Useage.txt  
@@ -22,6 +23,7 @@ What's in the ReloadXS [.zip ](https://github.com/StakeReloadXS/StakeReloadXS/re
 ├── manifest.json  
 ├── readme.md  
 ├── settings.json  
+├── README.md
 
 What's in the DropXS [.zip](https://github.com/StakeReloadXS/StakeReloadXS/releases/download/1.5.4-1/StakeDropXS-1.1.9-PublicCom.zip) archive?:  
 ├── src/  
@@ -33,20 +35,17 @@ What's in the DropXS [.zip](https://github.com/StakeReloadXS/StakeReloadXS/relea
 ├── index.html  
 ├── manifest.json  
 ├── settings.json 
+├──README.md  
  
-# **DropXS 1.1.9 Updates**
+## **DropXS 1.1.9 Updates**
 - Fixed spam notification issue on Code Fully Claimed
 - Improved broadcasting method 80% more efficient (faster)
 
-## ❤️**ReloadXS 1.5.4 Updates❤️**
-### Updates:
-- Implement additional support for Turbo Captcha.
-- Soon we will release a support channel since we have a lot of requests to different members of staff. More on this later.
-- Fix misplaced code that causing bot to crash after a long run.
-- Fix refund captcha when using xsid, was refunded to account instead of XSID.
-- Fix /vipclub server was down for a while.
-- Bot will retry request up to 3 time when receiving "Unknown Error xxxxxxx" message from Stake.
-- Bot will reject same code that coming before 10 seconds passed, this may avoid Rate Limit when we accidentally input the code twice.
+## ❤️**StakeReloadXS 1.6.0 Updates:❤️**   
+- Instant Booster (BETA) Feature.  
+- Now you may enable instant captcha anytime you want, with some extra cost. Turn it on whenever you think it is time for "code drop".  
+- This feature is currently limited, only XSID with permission can gain access to this feature.  
+- Added support for .pet mirror.  
 
 ### 🎮**Type of Captcha:**
 - Normal Captcha 6-60s = work anytime for all kind of captcha type.
