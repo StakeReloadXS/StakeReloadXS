@@ -1,2 +1,3 @@
-# MOVED TO
-# [StakeReloadXS](https://github.com/stakereload/xs)
+If you are using the chrome extension, please download the latest release in the .zip file.
+
+For windows: download the latest release for the native windows installer.
