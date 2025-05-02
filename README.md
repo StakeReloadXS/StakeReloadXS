@@ -12,6 +12,8 @@ We’re always looking to improve our project and would love to hear from you.
 Please fill out this short survey to share your thoughts:
 
 
-[![Take our Short Survey](https://forms.gle/LzzX1Si4TZpx9sgq6)](https://forms.gle/LzzX1Si4TZpx9sgq6) for a chance at free credits!
+How do free credits sound?
 
+![Take our Short Survey](https://github.com/user-attachments/assets/cc5e30d6-0de7-41b9-a9be-197599bb64e9) 
 
+[Here](https://forms.gle/LzzX1Si4TZpx9sgq6)
