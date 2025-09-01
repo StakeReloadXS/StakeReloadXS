@@ -1,19 +1,12 @@
-If you are using the chrome extension, please download the latest release in the .zip file.
+Hey guys,
 
-For windows: download the latest release for the native windows installer.
+Sorry to all the loyal customers out there. StakeReloadXS has closed down due to @sevellion who misled me for more than 18 months, and discovering that he shorted me in excess of $100,000. 
 
-[https://github.com/StakeReloadXS/XS/releases](https://github.com/StakeReloadXS/StakeReloadXS/releases)
+When I confronted him about it, he accused me of all sorts of improper things but refused to pay me. He then made public statements neglecting this $100,000 detail and promoting other bots before closing down. I don't want to name the bots but be sure that anything not coming directly from @jlucus / t.me/supitsj is most likely going to contain viruses or in the end short you for $100,000.
 
+We're happy to resume business soon, though financially this is a difficult position to be in and we're open to discussing terms with any interested serious party.
 
-# 📊 We Value Your Feedback!
+https://probablyfair.org
 
-We’re always looking to improve our project and would love to hear from you.
-
-Please fill out this short survey to share your thoughts:
-
-
-How do free credits sound?
-
-![Take our Short Survey](https://github.com/user-attachments/assets/cc5e30d6-0de7-41b9-a9be-197599bb64e9) 
-
-[Here](https://forms.gle/LzzX1Si4TZpx9sgq6)
+Regards,
+J.
