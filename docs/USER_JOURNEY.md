@@ -46,7 +46,7 @@ flowchart TD
 
 ## Current state of the storefront
 
-The live storefront (`xs-web`) does not yet follow this journey. Today, a visitor browses the catalog, submits an order through `POST /api/order`, and is contacted through Telegram or email to complete the sale. The order is stored in D1. No account, balance, trial, or hosted invoice exists on the storefront. The diagram above is the target, not the current behavior.
+The live storefront (`xs-web`) does not yet follow this journey. Today, a visitor browses the catalog and hands off the order through Telegram or email to complete the sale. The site does not call `POST /api/order`, because `orderEndpoint` is empty, so nothing is stored in D1. No account, balance, trial, or hosted invoice exists on the storefront. The diagram above is the target, not the current behavior.
 
 ## Legend
 
