@@ -1,0 +1,36 @@
+title: "🗣️ Community feedback"
+body:
+  - type: markdown
+    attributes:
+      value: "Tell us about your experience. Do not post usernames, payment details, documents or any other sensitive information."
+  - type: textarea
+    id: goal
+    attributes:
+      label: What were you trying to accomplish?
+    validations:
+      required: true
+  - type: textarea
+    id: positive
+    attributes:
+      label: What worked well?
+  - type: textarea
+    id: friction
+    attributes:
+      label: What was confusing or difficult?
+    validations:
+      required: true
+  - type: dropdown
+    id: impact
+    attributes:
+      label: How much did this affect your experience?
+      options:
+        - Minor inconvenience
+        - Moderate friction
+        - Unable to complete task
+        - General suggestion
+    validations:
+      required: true
+  - type: textarea
+    id: improvement
+    attributes:
+      label: What would make the experience better?
