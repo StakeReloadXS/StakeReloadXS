@@ -88,6 +88,12 @@ These need an owner decision or a legal sign-off. None of them has been implemen
 
 Setup instructions are not written yet. They will be added once `xs-serv` and `xs-chrome` contain runnable code. Until then, this document does not describe commands or endpoints, because none exist.
 
-## 7. Source and scope
+## 7. Related docs
+
+- [USER_JOURNEY.md](USER_JOURNEY.md): intended user path.
+- [SDK.md](SDK.md): planned surfaces across repos.
+- [VERSIONING.md](VERSIONING.md): version control and release synchronization plan.
+
+## 8. Source and scope
 
 This draft was written from the repository contents at commit `b7ba9b0` on `main` (the same commit the working branch was on). `xs-npm` was reviewed at commit `c501b14`. No product source code was reviewed, because none exists in any of the repos yet.
