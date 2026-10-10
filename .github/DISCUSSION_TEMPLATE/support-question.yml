@@ -1,0 +1,25 @@
+title: "❓ General question"
+body:
+  - type: markdown
+    attributes:
+      value: "For sensitive account, order, payment or verification matters, please use private support instead. Never share secrets or personally identifying records here."
+  - type: input
+    id: question
+    attributes:
+      label: Your question
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Public context or steps tried
+  - type: dropdown
+    id: area
+    attributes:
+      label: Topic
+      options:
+        - Browsing and products
+        - Cart and order process
+        - Accessibility
+        - General information
+        - Other
