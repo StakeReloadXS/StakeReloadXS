@@ -8,7 +8,7 @@
 | --- | --- | --- | --- | --- |
 | xs-chrome | `StakeReloadXS/xs-chrome` | Public | Chrome extension. Its README describes it as self-hosted. | Scaffold |
 | xs-serv | `StakeReloadXS/xs-serv` | Private | Server runtime that extensions and other clients connect to | Scaffold |
-| xs-npm | `UNKNOWN` (not reviewed) | `UNKNOWN` | npm package distribution | Not reviewed. This session could not access it. |
+| xs-npm | `StakeReloadXS/xs-npm` | `UNKNOWN` | npm package. Its README describes it as "Cloud hosted NPM package." | Scaffold (README and `.gitignore` only; no `package.json`) |
 | xs-electron | Not created | n/a | Planned desktop application | Planned |
 
 New components should be added to this table with their repository, visibility, and status.
@@ -61,7 +61,7 @@ A publication channel is a route by which a built component reaches users. Each 
 | Channel | Component | Status |
 | --- | --- | --- |
 | Chrome Web Store | xs-chrome | `UNKNOWN`. Store eligibility and listing rules not reviewed. |
-| npm registry | xs-npm | `UNKNOWN`. Package name, scope, and access model not reviewed. |
+| npm registry | xs-npm | `UNKNOWN`. No `package.json` yet, so package name, scope, and access model are undefined. |
 | Desktop installers | xs-electron | Planned |
 
 A license gate on each channel is the goal. How it is enforced is open. See section 4.
@@ -75,13 +75,13 @@ These need an owner decision or a legal sign-off. None of them has been implemen
 3. **Self-hosted license enforcement.** `UNKNOWN`: whether self-hosted installs call home, and how an offline install is handled.
 4. **Tenant isolation.** `UNKNOWN`: how cloud-hosted and on-demand instances keep one user's data away from another's.
 5. **On-demand lifecycle.** `UNKNOWN`: provisioning trigger, idle timeout, and what is kept or deleted at teardown.
-6. **xs-npm access.** `UNKNOWN`: this repo was not reachable when this draft was written. Its contents must be reviewed before it is documented here.
+6. **xs-npm package definition.** `UNKNOWN`: the repo has no `package.json`, so its package name, scope, and publish settings are undefined. Its README calls it "Cloud hosted," which needs to be reconciled with the deployment modes in section 2.
 7. **xs-electron scope.** Planned only. Not yet defined.
 
 ## 5. Security notes
 
 - `xs-serv` stays private. Do not make it public without a deliberate decision.
-- Do not commit secrets, `.env` files, or tokens. `xs-chrome` and `xs-serv` ignore `.env` and `.env.*`, which would also ignore `.env.example`. Add a `!.env.example` exception before committing one. `StakeReloadXS` ignores only `.env` and `.env.test`. When configuration is added, provide a `.env.example` with empty placeholders only.
+- Do not commit secrets, `.env` files, or tokens. `xs-chrome`, `xs-serv`, and `xs-npm` ignore `.env` and `.env.*`, which would also ignore `.env.example`. Add a `!.env.example` exception before committing one. `StakeReloadXS` ignores only `.env` and `.env.test`. When configuration is added, provide a `.env.example` with empty placeholders only.
 - Client-side code (`xs-chrome`, and later `xs-electron`) must not contain server credentials or license secrets. Anything shipped to a user should be treated as readable by that user.
 
 ## 6. Setup
@@ -90,4 +90,4 @@ Setup instructions are not written yet. They will be added once `xs-serv` and `x
 
 ## 7. Source and scope
 
-This draft was written from the repository contents at commit `b7ba9b0` on `main` (the same commit the working branch was on). No product source code was reviewed, because none exists in the cloned repos yet.
+This draft was written from the repository contents at commit `b7ba9b0` on `main` (the same commit the working branch was on). `xs-npm` was reviewed at commit `c501b14`. No product source code was reviewed, because none exists in any of the repos yet.
