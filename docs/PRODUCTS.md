@@ -1,6 +1,6 @@
 # StakeReloadXS Products and Deployment Modes
 
-**Status: design draft.** The product repositories currently contain scaffolding only (a README, a `.gitignore`, and one initial commit each). Nothing here describes behavior that has shipped. Anything not yet established is marked `UNKNOWN` and needs an owner decision before it is treated as fact.
+**Status: design draft, with one live product.** The storefront `xs-web` is live at `stakereloadxs.com` and takes orders. The other product repositories (`xs-chrome`, `xs-serv`, `xs-npm`) contain scaffolding only. Anything not yet established is marked `UNKNOWN` and needs an owner decision before it is treated as fact.
 
 ## 1. Product map
 
@@ -9,6 +9,7 @@
 | xs-chrome | `StakeReloadXS/xs-chrome` | Public | Chrome extension. Its README describes it as self-hosted. | Scaffold |
 | xs-serv | `StakeReloadXS/xs-serv` | Private | Server runtime that extensions and other clients connect to | Scaffold |
 | xs-npm | `StakeReloadXS/xs-npm` | `UNKNOWN` | npm package. Its README describes it as "Cloud hosted NPM package." | Scaffold (README and `.gitignore` only; no `package.json`) |
+| xs-web | `StakeReloadXS/xs-web` | Public | Live storefront on Cloudflare Pages. Catalog, cart, order intake (D1 database, optional Telegram alert), policy pages. Deploys on every push to `main`. | **Live** |
 | xs-electron | Not created | n/a | Planned desktop application | Planned |
 
 New components should be added to this table with their repository, visibility, and status.
@@ -75,8 +76,10 @@ These need an owner decision or a legal sign-off. None of them has been implemen
 3. **Self-hosted license enforcement.** `UNKNOWN`: whether self-hosted installs call home, and how an offline install is handled.
 4. **Tenant isolation.** `UNKNOWN`: how cloud-hosted and on-demand instances keep one user's data away from another's.
 5. **On-demand lifecycle.** `UNKNOWN`: provisioning trigger, idle timeout, and what is kept or deleted at teardown.
-6. **xs-npm package definition.** `UNKNOWN`: the repo has no `package.json`, so its package name, scope, and publish settings are undefined. Its README calls it "Cloud hosted," which needs to be reconciled with the deployment modes in section 2.
-7. **xs-electron scope.** Planned only. Not yet defined.
+6. **Storefront and the current sales model.** `UNKNOWN` for counsel: the live catalog sells "XS Credits" and "XSID" setups for USD, with volume boost tiers, delivered to a Telegram handle. The legal characterization of these products and of the boost tiers, and the regulatory status of the business, need counsel review before any new sales, licensing, or trial flow is built on top of them. The planned licensing model in this document is not connected to the storefront today.
+7. **Public statement versus live operations.** The root `README.md` says the business has closed and will resume "soon," while `xs-web` is live and takes orders. The owner must decide which statement is accurate and reconcile them before public marketing goes out.
+8. **xs-npm package definition.** `UNKNOWN`: the repo has no `package.json`, so its package name, scope, and publish settings are undefined. Its README calls it "Cloud hosted," which needs to be reconciled with the deployment modes in section 2.
+9. **xs-electron scope.** Planned only. Not yet defined.
 
 ## 5. Security notes
 

@@ -10,6 +10,7 @@
 | Server API | [xs-serv](https://github.com/StakeReloadXS/xs-serv) (private) | Accounts, balance, invoices, notifications | Design-only, provisional |
 | Chrome extension | [xs-chrome](https://github.com/StakeReloadXS/xs-chrome) | Browser client that connects to an endpoint | Design-only |
 | Desktop app | `xs-electron` (not created) | Planned | Planned |
+| Storefront | [xs-web](https://github.com/StakeReloadXS/xs-web) (public) | Public order endpoint `POST /api/order`, validated against the live catalog. Not an SDK surface, but external clients may depend on it. | Live |
 
 ## Principles that apply to every surface
 

@@ -14,6 +14,7 @@ A client built today must either work with the server it talks to, or fail with 
 | Client SDK and CLI | `xs-npm` | npm package | `package.json` `version` |
 | Browser client | `xs-chrome` | Chrome Web Store, or unpacked during development | `manifest.json` `version` |
 | Desktop app | `xs-electron` (planned) | Installers, `UNKNOWN` | Not yet defined |
+| Storefront | `xs-web` (public) | Static site plus Cloudflare Pages Function, live at `stakereloadxs.com` | Git commit on `main`, deployed directly; no version number |
 | Umbrella docs | `StakeReloadXS` | Documentation only | None; not released as a package |
 
 ## 3. Version scheme
@@ -96,7 +97,26 @@ The extension's version is checked at startup like any other client.
 
 Same stages as the browser client. Auto-update channels are `UNKNOWN`. A desktop app can't be forced to update instantly, so it follows the same rule as the extension.
 
-### 6.5 Umbrella repo (StakeReloadXS)
+### 6.5 xs-web (live storefront)
+
+This pipeline is already live, so the gaps below affect production today.
+
+**What runs now** (`.github/workflows/deploy-cloudflare.yml`):
+1. Triggered by any push to `main`, or manually.
+2. Stages an explicit allowlist into `_site/` and deploys it with `wrangler pages deploy`.
+3. Deploys are serialized (one at a time, no cancel-in-progress).
+4. Rollback is done in the Cloudflare Pages dashboard by selecting an earlier deployment (see the runbook).
+
+**Gaps to close before the plan above can rely on this pipeline:**
+- **Tests do not gate the deploy.** The Playwright suite (`tests/`) and the site-policy guard (`tests/site-policy.test.js`) are run by hand before merging, per the runbook. The deploy workflow itself runs no tests, so a broken push goes straight to production. Proposed: run `npm test` in `tests/` as a required step before deploy. `UNKNOWN` until the owner approves a change to the production workflow.
+- **Order API is a versioned contract.** `POST /api/order` in `functions/api/order.js` depends on `data/products.json` and on the D1 table `orders`. Changes to either must be treated as a breaking change and recorded in `compat.json` once it exists.
+- **Catalog changes deploy with code.** Editing `data/products.json` redeploys the storefront on push. Price changes need the same review as code changes. This is an owner decision.
+- **Telegram and D1 bindings are set in the Cloudflare dashboard, not in the repo.** A deploy does not recreate them. Record binding changes in the runbook when they change.
+- **Policy pages carry their own version register.** `POLICIES.md` sets version and date rules for `privacy.html`, `refund.html`, and `terms.html`. These are separate from the release versioning in this document and must be kept in sync with the page text.
+
+**Interaction with the planned server:** the storefront is the only public sales surface today. When `xs-serv` takes over accounts and balances, the order flow either moves to `xs-serv` or is kept with an explicit bridge. The bridge and its version must be listed in `compat.json`. Decision: `UNKNOWN`.
+
+### 6.6 Umbrella repo (StakeReloadXS)
 
 - Docs only. A CI check verifies that `compat.json` matches the released versions in each repo.
 - Release notes are collected here from each repo's changelog.
@@ -139,4 +159,4 @@ Same stages as the browser client. Auto-update channels are `UNKNOWN`. A desktop
 
 ## 11. Not started
 
-No pipeline, tag, or `compat.json` has been created. Each item depends on the decisions above and on the legal gate for licensed paths.
+The `xs-web` storefront pipeline already exists and is live (section 6.5). No new pipeline, tag, or `compat.json` has been created. Each new item depends on the decisions above and on the legal gate for licensed paths.

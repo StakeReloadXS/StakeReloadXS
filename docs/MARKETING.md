@@ -14,9 +14,12 @@ A set of tools that connect to a StakeReloadXS server, so you can run the toolin
 
 | Product | What it is | Availability |
 | --- | --- | --- |
+| Storefront (xs-web) | Online catalog and order form at stakereloadxs.com | Live. Product terms and availability are `UNKNOWN` for public copy until the owner and counsel approve them. |
 | npm package (xs-npm) | Command line and programmatic setup | Not yet published |
 | Chrome extension (xs-chrome) | Browser client | Not yet published |
 | Desktop app (xs-electron) | Planned | Planned |
+
+Public copy must match the live storefront. The storefront's current terms are in `terms.html`, `refund.html`, and `privacy.html`. Any description of products here must agree with them.
 
 ## How getting started will work
 
