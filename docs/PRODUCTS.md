@@ -81,7 +81,7 @@ These need an owner decision or a legal sign-off. None of them has been implemen
 ## 5. Security notes
 
 - `xs-serv` stays private. Do not make it public without a deliberate decision.
-- Do not commit secrets, `.env` files, or tokens. `xs-chrome`, `xs-serv`, and `xs-npm` ignore `.env` and `.env.*`, which would also ignore `.env.example`. Add a `!.env.example` exception before committing one. `StakeReloadXS` ignores only `.env` and `.env.test`. When configuration is added, provide a `.env.example` with empty placeholders only.
+- Do not commit secrets, `.env` files, or tokens. `xs-chrome`, `xs-serv`, and `xs-npm` ignore `.env` and `.env.*` and re-include `.env.example` with a `!.env.example` line, so a placeholder template can be committed. `StakeReloadXS` ignores only `.env` and `.env.test`. Add a `!.env.example` exception there before committing one. Provide `.env.example` files with empty placeholders only.
 - Client-side code (`xs-chrome`, and later `xs-electron`) must not contain server credentials or license secrets. Anything shipped to a user should be treated as readable by that user.
 
 ## 6. Setup
