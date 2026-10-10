@@ -1,0 +1,38 @@
+title: "💡 Feature request"
+body:
+  - type: markdown
+    attributes:
+      value: "Thanks for helping improve StakeReloadXS. Do not include private account, payment, or identity information."
+  - type: input
+    id: problem
+    attributes:
+      label: What problem are you trying to solve?
+      placeholder: "I want to... but currently..."
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed feature or improvement
+      description: Describe the experience from the participant's perspective.
+    validations:
+      required: true
+  - type: textarea
+    id: value
+    attributes:
+      label: Who benefits and how?
+    validations:
+      required: true
+  - type: textarea
+    id: workflow
+    attributes:
+      label: Example user journey
+      description: Step by step, what would a participant see or do?
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives or workarounds
+  - type: textarea
+    id: safety
+    attributes:
+      label: Privacy, trust, or security considerations
