@@ -6,7 +6,7 @@ StakeReloadXS Discussions is the public venue for ideas, questions, and construc
 
 | Topic | Where |
 | --- | --- |
-| New feature or product improvement | [Discussions](https://github.com/StakeReloadXS/StakeReloadXS/discussions) — select the feature-request/ideas category shown in the interface |
+| New feature or product improvement | [Discussions](https://github.com/StakeReloadXS/StakeReloadXS/discussions) — select the **Feature Requests** category |
 | Question, experience, or general feedback | [Discussions](https://github.com/StakeReloadXS/StakeReloadXS/discussions) — select the relevant category |
 | Confirmed, reproducible software defect | [Issues](https://github.com/StakeReloadXS/StakeReloadXS/issues) in the component's repository |
 | Source changes or documentation fixes | Pull request in the owning repository |

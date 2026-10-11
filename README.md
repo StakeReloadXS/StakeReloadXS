@@ -2,7 +2,7 @@
 
 **Xtremely simple tools, transparent updates, and a community-led roadmap.**
 
-[Website](https://stakereloadxs.com) · [Community discussions](https://github.com/StakeReloadXS/StakeReloadXS/discussions) · [Feature requests](https://github.com/StakeReloadXS/StakeReloadXS/discussions/categories/ideas) · [Documentation](docs/README.md) · [Issues](https://github.com/StakeReloadXS/StakeReloadXS/issues)
+[Website](https://stakereloadxs.com) · [Community discussions](https://github.com/StakeReloadXS/StakeReloadXS/discussions) · [Feature requests](https://github.com/StakeReloadXS/StakeReloadXS/discussions/categories/feature-requests) · [Documentation](docs/README.md) · [Issues](https://github.com/StakeReloadXS/StakeReloadXS/issues)
 
 StakeReloadXS is the public home for project documentation, community feedback, and cross-repository planning. The web storefront is a separate project; client applications and developer integrations are at different stages of development.
 
