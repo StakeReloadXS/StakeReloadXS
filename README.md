@@ -28,7 +28,7 @@ StakeReloadXS is the public home for project documentation, community feedback, 
 | [xs-web](https://github.com/StakeReloadXS/xs-web) | Public website and storefront | Live website; automated order flow not enabled per current project docs |
 | [xs-chrome](https://github.com/StakeReloadXS/xs-chrome) | Browser extension | In development |
 | [xs-npm](https://github.com/StakeReloadXS/xs-npm) | npm/CLI integration | In development; package availability not asserted |
-| [xs-serv](https://github.com/StakeReloadXS/xs-serv) | Server-side runtime | Private; in development |
+| xs-serv | Server-side runtime | Private; in development |
 | [StakeReloadXS](https://github.com/StakeReloadXS/StakeReloadXS) | Public documentation and community planning | This repository |
 
 Descriptions and availability can change. Do not interpret a roadmap item as a released feature.
