@@ -2,7 +2,7 @@
 
 **Status: draft, not published.** Target file: `profile/README.md` in the organization's `.github` repository (`StakeReloadXS/.github`, not attached to this session). Publishing is blocked on the owner decisions tracked in StakeReloadXS issues #14 (legal gate), #15 (README reconciliation), and #16 (marketing approval).
 
-**Version:** 0.1 (draft). **Last updated:** 10 October 2026.
+**Version:** 0.2 (draft). **Last updated:** 12 October 2026.
 
 Keep this file and the published profile identical. Edit here first, then copy. Record each published change in the history table below.
 
@@ -19,8 +19,8 @@ StakeReloadXS builds open source tooling around a storefront and a set of connec
 | Repository | Visibility | What it is | Status |
 | --- | --- | --- | --- |
 | [xs-web](https://github.com/StakeReloadXS/xs-web) | Public | Storefront at [stakereloadxs.com](https://stakereloadxs.com) | Live |
-| [xs-chrome](https://github.com/StakeReloadXS/xs-chrome) | Public | Browser extension client | In development |
-| [xs-npm](https://github.com/StakeReloadXS/xs-npm) | Public | npm package and command-line client | In development |
+| [xs-chrome](https://github.com/StakeReloadXS/xs-chrome) | Private | Browser extension client | In development |
+| [xs-npm](https://github.com/StakeReloadXS/xs-npm) | Private | npm package and command-line client | In development |
 | [xs-serv](https://github.com/StakeReloadXS/xs-serv) | Private | Server runtime | In development |
 | [StakeReloadXS](https://github.com/StakeReloadXS/StakeReloadXS) | Public | Product documentation, roadmap, and release plan | Documentation |
 
@@ -57,6 +57,7 @@ Only follow the links above. Anyone who contacts you on another channel and clai
 | Version | Date | Change |
 | --- | --- | --- |
 | 0.1 | 10 October 2026 | First draft. Not published. |
+| 0.2 | 12 October 2026 | Corrected visibility for `xs-chrome` and `xs-npm` (both private, per the organization's repository list). Added the required files for the repository set (LICENSE, CLAUDE.md, AGENTS.md, VERSION.md, CHANGELOG.md, CONTRIBUTING.md, SECURITY.md, .gitignore, .claude). Still not published. |
 
 ## Open items before publishing
 
