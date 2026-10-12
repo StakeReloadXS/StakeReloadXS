@@ -1,0 +1,110 @@
+# Essential repository files for the StakeReloadXS organization.
+#
+# Every entry in `files` is rendered from its template for each repo in `repos`.
+#   mode: sync    overwrite the file when it differs from the template
+#   mode: create  write the file only when it is missing, so repo-specific content is kept
+#   exclude       repo keys that must not receive the file (for example, a repo that keeps its own license)
+#
+# Run from the org-profile checkout:
+#   python3 tools/essential-files/sync_essential_files.py --root /home/user check
+#   python3 tools/essential-files/sync_essential_files.py --root /home/user apply
+
+commands:
+  none: |
+    No build or test tooling yet. Add the commands here once they exist.
+  telegram: |
+    - `npm install`
+    - `npm run typecheck`
+    - `npm test`
+  web: |
+    Static site with no build step. See `README.md` for how it is served and deployed.
+
+repos:
+  xs-chrome:
+    path: xs-chrome
+    description: "Self-hosted Chrome extension."
+    version: "0.1.0"
+    commands: none
+  xs-serv:
+    path: xs-serv
+    description: "Private server runtime for StakeReloadXS."
+    version: "0.1.0"
+    commands: none
+  xs-ish:
+    path: xs-ish
+    description: "Local-first iSH Alpine SDK and CLI for secure multi-project workflow automation on iOS."
+    version: "0.1.0"
+    commands: none
+  xs-telegram:
+    path: xs-telegram
+    description: "Private Telegram Bot API helpers for StakeReloadXS."
+    version: "0.1.0"
+    commands: telegram
+  xs-electron:
+    path: xs-electron
+    description: "Cross-platform Electron app for StakeReloadXS."
+    version: "0.1.0"
+    commands: none
+  xs-npm:
+    path: xs-npm
+    description: "Cloud-hosted npm package for StakeReloadXS."
+    version: "0.1.0"
+    commands: none
+  xs-web:
+    path: xs-web
+    description: "Static StakeReloadXS storefront hosted on Cloudflare Pages."
+    version: "1.0.0"
+    commands: web
+  StakeReloadXS:
+    path: org-profile
+    description: "Public home for StakeReloadXS documentation, community feedback, and cross-repo planning."
+    version: "0.1.0"
+    commands: none
+  readme.md:
+    path: readme.md
+    description: "Profile README and feedback poll for StakeReloadXS."
+    version: "0.1.0"
+    commands: none
+
+files:
+  - path: LICENSE
+    template: templates/LICENSE.tpl
+    mode: sync
+    exclude: [xs-web]          # xs-web keeps its existing MIT notice
+  - path: AGENTS.md
+    template: templates/AGENTS.md.tpl
+    mode: sync
+  - path: CONTRIBUTING.md
+    template: templates/CONTRIBUTING.md.tpl
+    mode: sync
+  - path: SECURITY.md
+    template: templates/SECURITY.md.tpl
+    mode: sync
+  - path: CODE_OF_CONDUCT.md
+    template: templates/CODE_OF_CONDUCT.md.tpl
+    mode: sync
+  - path: .editorconfig
+    template: templates/editorconfig.tpl
+    mode: sync
+  - path: .github/pull_request_template.md
+    template: templates/pull_request_template.md.tpl
+    mode: sync
+  - path: CLAUDE.md
+    template: templates/CLAUDE.md.tpl
+    mode: create
+  - path: VERSION.md
+    template: templates/VERSION.md.tpl
+    mode: create
+  - path: CHANGELOG.md
+    template: templates/CHANGELOG.md.tpl
+    mode: create
+  - path: .gitignore
+    template: templates/gitignore.tpl
+    mode: create
+  - path: .claude/settings.json
+    template: templates/settings.json.tpl
+    mode: create
+  - path: .claude/hooks/session-start.sh
+    template: templates/session-start.sh.tpl
+    mode: sync
+    exclude: [xs-serv, xs-web]   # both keep their own Cloudflare session hooks
